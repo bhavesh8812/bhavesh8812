@@ -60,6 +60,14 @@ When I'm not coding, you'll find me exploring the latest gadgets or diving into 
   - **Features:** JWT authentication, authorization, password encryption, responsive design, email notifications, online IDE, chatbot interface, microservices architecture, and Razorpay integration.
   - **GitHub:** [bhavesh8812/CodingNexus](https://github.com/bhavesh8812/CodingNexus)
 
+- **DotNet Coding Nexus**  
+  A reimplementation of the Coding Nexus project using ASP.NET MVC Core.
+  - **Frontend:** ASP.NET MVC Core
+  - **Backend:** ASP.NET MVC Core
+  - **Database:** MySQL
+  - **Features:** Same functionality as the original Coding Nexus, utilizing ASP.NET technologies for enhanced performance and integration with Microsoft-based solutions.
+  - **GitHub:** [bhavesh8812/Dotnet-Project2](https://github.com/bhavesh8812/Dotnet-Project2)
+
 - **SwadhGhar Delights (CDAC)**  
   An online tiffin service application for ordering homemade meals.
   - **Frontend:** React.js
